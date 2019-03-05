@@ -33,12 +33,26 @@ It contain some sample regarding to Sudoku
 ## How to run
 
 ### For GUI version
-    $ python3 main.py
+```bash
+python3 main.py
+```
 
 ### For console version
-    $ python3
->>> from sudoku import Sudoku
->>> a = Sudoku()
->>> a.initPuzzle(True)
->>> a.show()
->>> a.autoSolve()
+```bash
+python3
+```
+```python
+from sudoku import Sudoku
+a = Sudoku()
+a.initPuzzle(True)
+a.show()
+a.autoSolve()
+```
+
+## Previews
+### Empty Sudoku
+![Empty Sudoku](https://github.com/B16CS006/Sudoku-Solver/blob/master/images/emptySudoku.png)
+### Unfilled Sudoku
+![Unfilled Sudoku](https://github.com/B16CS006/Sudoku-Solver/blob/master/images/unfilledSudoku.png)
+### Filled Sudoku
+![Filled Sudoku](https://github.com/B16CS006/Sudoku-Solver/blob/master/images/filledSudoku.png)
