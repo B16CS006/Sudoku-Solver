@@ -3,13 +3,13 @@
 A Python program to solve a given Sudoku. Along with Sudoku solver it can generate a random Sudoku.
 
 ## Functionality
-1. Have Both console and graphics interface, console is better than graphics
-2. Clear Whole Sudoku
-3. Randomly Initilize Sudoku
-4. Can check if it contain on provided elements
-5. Can also check Correctness(constraint satisfied) and Completeness(no element to fill) of Sudoku.
-6. Automatically solve the Sudoku
-7. ...
+- Have Both console and graphics interface, console is better than graphics
+- Clear Whole Sudoku
+- Randomly Initilize Sudoku
+- Can check if it contain on provided elements
+- Can also check Correctness(constraint satisfied) and Completeness(no element to fill) of Sudoku.
+- Automatically solve the Sudoku
+- ...
 
 ## About files
 
@@ -26,9 +26,9 @@ It a main file which create an object of Application and start its init function
 It contain some sample regarding to Sudoku
 
 ## Requirements
-1. Python3
-2. tkinter package
-3. ...
+- Python3
+- tkinter package
+- ...
 
 ## How to run
 
